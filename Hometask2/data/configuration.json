@@ -1,0 +1,1 @@
+[{"Header line movies": ["movieId", "title", "genres"], "Header line output": "genres,title,avg_rating", "Header line ratings": ["userId", "movieId", "rating", "timestamp"], "Output file delimiter": ","}]
